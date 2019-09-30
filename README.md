@@ -37,3 +37,8 @@ Through Data Analysis , Visualization and Modelling, the below have been conclud
 ## Author
 
 Walid Naous - Aeronautical Engineer |Data Scientist|Project Manager
+https://github.com/nwalid
+
+## Thanks
+
+Thanks to [Udacity](https://eu.udacity.com/) and their outstanding staff for their help in completing this proejct.
